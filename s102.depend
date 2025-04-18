@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1732876251 source:z:\s1 bis\c++\projet s102\s102_projet_codeblocks\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1732878237 source:z:\s1 bis\c++\projet s102\s102_projet_codeblocks\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1729577316 source:z:\s1 bis\c++\projet s102\s102_projet_codeblocks\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1732878379 source:z:\s1 bis\c++\projet s102\s102_projet_codeblocks\s102\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1732872650 source:z:\s102-projet jeu\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1734343312 source:z:\s102-projet jeu\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	<string>
+
+1734429590 source:z:\s102-projet jeu\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1734095790 source:z:\s102-projet jeu\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1736449725 source:z:\s1 bis\c++\projet s102\s102-projet jeu\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1736524626 source:z:\s1 bis\c++\projet s102\s102-projet jeu\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+	<string>
+	<fstream>
+
+1736449726 source:z:\s1 bis\c++\projet s102\s102-projet jeu\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736509442 source:z:\s1 bis\c++\projet s102\s102-projet jeu\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+	<string>
+
+1736449727 source:z:\s1 bis\c++\projet s102\s102-projet jeu\src\tuile.cpp
+	<SDL_image.h>
+	<exception>
+	"Tuile.h"
+
+1736449725 source:z:\s1 bis\c++\projet s102\s102-projet jeu\src\dictionnaire.cpp
+	"Dictionnaire.h"
+	<string>
+
+1736421698 source:d:\universiter\s1 bis\c++\s102-projet jeu\src\dictionnaire.cpp
+	"Dictionnaire.h"
+	<string>
+
+1732865450 source:d:\universiter\s1 bis\c++\s102-projet jeu\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1736345616 source:d:\universiter\s1 bis\c++\s102-projet jeu\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736432535 source:d:\universiter\s1 bis\c++\s102-projet jeu\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+	<string>
+
+1736421786 source:d:\universiter\s1 bis\c++\s102-projet jeu\src\tuile.cpp
+	<SDL_image.h>
+	<exception>
+	"Tuile.h"
+
+1736432688 source:d:\universiter\s1 bis\c++\s102-projet jeu\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+	<string>
+	<fstream>
+
+1736431407 source:d:\universiter\s1 bis\c++\s102-projet jeu\src\objet.cpp
+	"Objet.h"
+
+1736431534 source:d:\universiter\s1 bis\c++\s102-projet jeu\src\niveau.cpp
+	"Niveau.h"
+
+1736524571 source:z:\s1 bis\c++\projet s102\s102-projet jeu\src\niveau.cpp
+	"Niveau.h"
+
+1736524278 source:z:\s1 bis\c++\projet s102\s102-projet jeu\src\objet.cpp
+	"Objet.h"
+
+1736873775 source:c:\users\luisi\onedrive\bureau\but1 orsay\info\s102-projet jeu\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+	<string>
+
+1736530404 source:c:\users\luisi\onedrive\bureau\but1 orsay\info\s102-projet jeu\src\tuile.cpp
+	<SDL_image.h>
+	<exception>
+	"Tuile.h"
+
+1736530404 source:c:\users\luisi\onedrive\bureau\but1 orsay\info\s102-projet jeu\src\dictionnaire.cpp
+	"Dictionnaire.h"
+	<string>
+
+1736530404 source:c:\users\luisi\onedrive\bureau\but1 orsay\info\s102-projet jeu\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1736975150 source:c:\users\luisi\onedrive\bureau\but1 orsay\info\s102-projet jeu\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736546738 source:c:\users\luisi\onedrive\bureau\but1 orsay\info\s102-projet jeu\src\objet.cpp
+	"Objet.h"
+
+1736546738 source:c:\users\luisi\onedrive\bureau\but1 orsay\info\s102-projet jeu\src\niveau.cpp
+	"Niveau.h"
+
+1736975090 source:c:\users\luisi\onedrive\bureau\but1 orsay\info\s102-projet jeu\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+	<string>
+	<fstream>
+
